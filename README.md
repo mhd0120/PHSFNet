@@ -1,4 +1,4 @@
-# PHSFNet
-XCO2 inversion
+# OCAP-Net
+XCO2 estimation
 
 The code will be released soon
