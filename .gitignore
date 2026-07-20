@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+.venv/
+venv/
+env/
+.env
+
+# Large data and generated artifacts
+data/*
+database/index/*
+fast_read/full/*
+model_status/*
+outputs/*
+results/*
+runs_xco2/*
+
+!data/.gitkeep
+!database/index/.gitkeep
+!fast_read/full/.gitkeep
+!model_status/.gitkeep
+!outputs/.gitkeep
+!results/.gitkeep
+
+# Local IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
